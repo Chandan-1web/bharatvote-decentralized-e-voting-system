@@ -1,0 +1,7 @@
+{
+  "name": "BharatVote - Decentralized E-Voting System",
+  "description": "A secure, decentralized online voting system featuring AI-powered face recognition, Aadhar and Voter ID verification, and blockchain-backed integrity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
