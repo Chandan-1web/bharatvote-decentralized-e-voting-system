@@ -62,7 +62,7 @@ export const CANDIDATES: Candidate[] = [
 export const TRANSLATIONS: Record<Language, any> = {
   en: {
     welcome: "Secure the Future of Democracy",
-    login_sub: "Sign in with Chandan to initiate your vote session.",
+    login_sub: "Sign in with BharatVote to initiate your vote session.",
     email_verify: "Email Verification",
     email_sub: "A secure one-time code has been sent to your registered Gmail.",
     choose_location: "Search Voting Booth",
@@ -79,7 +79,7 @@ export const TRANSLATIONS: Record<Language, any> = {
   },
   hi: {
     welcome: "लोकतंत्र के भविष्य को सुरक्षित करें",
-    login_sub: "अपना वोट सत्र शुरू करने के लिए चंदन ऐडी से साइन इन करें।",
+    login_sub: "अपना वोट सत्र शुरू करने के लिए बहरतवोट से साइन इन करें।",
     email_verify: "ईमेल सत्यापन",
     email_sub: "आपके पंजीकृत जीमेल पर एक सुरक्षित ओटीपी भेजा गया है।",
     choose_location: "मतदान केंद्र खोजें",
@@ -96,7 +96,7 @@ export const TRANSLATIONS: Record<Language, any> = {
   },
   kn: {
     welcome: "ಪ್ರಜಾಪ್ರಭುತ್ವದ ಭವಿಷ್ಯವನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸಿ",
-    login_sub: "ನಿಮ್ಮ ಮತದಾನ ಅಧಿವೇಶನವನ್ನು ಪ್ರಾರಂಭಿಸಲು ಚಂದನ್ ಐಡಿಯೊಂದಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.",
+    login_sub: "ನಿಮ್ಮ ಮತದಾನ ಅಧಿವೇಶನವನ್ನು ಪ್ರಾರಂಭಿಸಲು ಬಹರತ್ವೋಟ್ ಐಡಿಯೊಂದಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.",
     email_verify: "ಇಮೇಲ್ ಪರಿಶೀಲನೆ",
     email_sub: "ನಿಮ್ಮ ನೋಂದಾಯಿತ ಜಿಮೇಲ್ ಗೆ ಸರಕ್ಷಿತ ಓಟಿಪಿ ಕಳುಹಿಸಲಾಗಿದೆ.",
     choose_location: "ಮತದಾನ ಕೇಂದ್ರವನ್ನು ಹುಡುಕಿ",

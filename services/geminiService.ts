@@ -5,7 +5,7 @@ import { VerificationResult } from "../types";
 // Mock mode - bypasses API calls for testing
 const USE_MOCK_API = true;
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({apiKey: import.meta.env.VITE_GEMINI_API_KEY});
 
 export const verifyDocument = async (
   imageBuffer: string,
